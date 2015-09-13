@@ -1,0 +1,12 @@
+A lot of people have been requesting Lucid Icons without
+the text at the bottom.. But you can imagine how 
+ridiculously tasking it would be to manually crop out
+the text and clean up each individual icon.
+
+As a solution, I used a batch action edit, as accurately
+as I could. So because of this, there will be some 
+anomalies in the shadows and glows. I apologize for that, 
+but I hope you'll appreciate the addition of text-less 
+versions of Lucid icons anyways.
+
+-leechiahan
