@@ -7,9 +7,9 @@ Now with permission from [author](http://jlee.ca/) i want to complete this pack 
 ## Usage
 You can use it:
 - in your projects (see License for more info)
-- on your desktop(for example with [RocketDock](http://rocketdock.com/))
+- on your desktop (for example with [RocketDock](http://rocketdock.com/))
 
-##Do it yourself
+## Do it yourself
 See DIY folder for sources
     
 ## License
