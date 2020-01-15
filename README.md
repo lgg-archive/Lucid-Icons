@@ -1,10 +1,10 @@
-#Lucid icons pack
+# Lucid icons pack
 
-##Description
+## Description
 I found this awesome icon pack on [deviantart](http://leechiahan.deviantart.com/art/Lucid-Icons-104175952) a few years ago.
 Now with permission from [author](http://jlee.ca/) i want to complete this pack and host it on github.
 
-##Usage
+## Usage
 You can use it:
 - in your projects (see License for more info)
 - on your desktop(for example with [RocketDock](http://rocketdock.com/))
@@ -12,14 +12,14 @@ You can use it:
 ##Do it yourself
 See DIY folder for sources
     
-##License
+## License
 [![Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
 See [here](http://creativecommons.org/licenses/by-nc-sa/4.0/) for more info
 
-##Thanks:
+## Thanks:
 - Ruth P
 - Tom M
 - Sanjovin S
@@ -40,7 +40,7 @@ See [here](http://creativecommons.org/licenses/by-nc-sa/4.0/) for more info
 
 and all the users who've contributed their own icons to the set!
 
-##From author
+## From author
 >I'd like to thank all the friendly people from around the
 world who have found the kindness to comment, share, and 
 favourite this icon set. Some have even made their own icons 
